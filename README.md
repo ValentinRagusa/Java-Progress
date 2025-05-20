@@ -1,4 +1,4 @@
-# Java Progress 🚀
+# Java Progress 
 
 Welcome to my **Java Progress** repository!  
 This is a personal space where I track my learning and development as a Java programmer.  
@@ -6,7 +6,7 @@ It includes exercises, mini-projects, and larger applications that demonstrate m
 
 ---
 
-## 📚 Structure
+##  Structure
 
 This repository is organized into folders by difficulty and purpose:
 
@@ -27,7 +27,7 @@ Java-Progress/
 
 ---
 
-## ✅ Goals
+##  Goals
 
 - Practice Java syntax and logic.
 - Develop solid understanding of object-oriented programming.
@@ -37,26 +37,19 @@ Java-Progress/
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java SE 8+  
-- IntelliJ IDEA / VS Code  
-- JavaFX (optional for GUI projects)  
-- SQLite / File I/O  
-- Git & GitHub for version control
+- VS Code
+- Idk yet
+
+##  What You’ll Find
+
+-  **Projects:** practical apps like task managers, games, and utilities.
 
 ---
 
-## 🧠 What You’ll Find
-
-- 📗 **Beginner:** basic exercises using variables, conditionals, loops.
-- 📘 **Intermediate:** classes, methods, encapsulation, small programs.
-- 📙 **Advanced:** collections, file handling, inheritance, interfaces.
-- 🧩 **Projects:** practical apps like task managers, games, and utilities.
-
----
-
-## 💡 Why this repo?
+##  Why this repo?
 
 Creating this repository helps me:
 
@@ -74,6 +67,6 @@ I'm always open to learning from others!
 
 ---
 
-## 📎 License
+##  License
 
 This repository is licensed under the MIT License.
